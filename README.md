@@ -10,8 +10,8 @@ The historical data for Bitcoin is sourced from Yahoo Finance.
 
 ## Files
 
-- `bitcoin_price_prediction.py`: The main Python script containing the entire process of data loading, cleaning, feature engineering, model training, and evaluation.
-- `README.md`: This readme file, providing an overview of the project and instructions for setup and usage.
+- `BTC_USD_price_prediction.ipynb`: The main Python script containing the entire process of data loading, cleaning, feature engineering, model training, and evaluation.
+- `README.md`: This readme file, provides an overview of the project and instructions for setup and usage.
 
 ## Dependencies
 
@@ -53,7 +53,7 @@ The model's performance is evaluated using the precision score, which measures t
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/bitcoin-price-prediction.git
+    git clone https://github.com/sumansatyal/bitcoin-price-prediction.git
     cd bitcoin-price-prediction
     ```
 
@@ -89,6 +89,3 @@ The project demonstrates the process of using machine learning for time series f
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
